@@ -45,18 +45,6 @@ Ensure the following dependencies are included in your `pom.xml`:
 </dependencies>
 ```
 
-## Configuration
-
-Update the `application.properties` file with the input and output directory paths:
-
-```properties
-input.directory=C:\\Users\\kabbania\\Desktop\\CVS
-output.directory=C:\\Users\\kabbania\\Desktop\\Processed
-```
-
-## How to Run
-Sure, continuing from where we left off:
-
 ### How to Run
 
 1. **Clone the Repository:**
