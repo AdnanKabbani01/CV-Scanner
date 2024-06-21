@@ -102,10 +102,6 @@ Sure, continuing from where we left off:
 
 Contributions to enhance the functionality, improve performance, or fix bugs are welcome. Please fork the repository, create a new branch, and submit a pull request with your changes.
 
-### License
-
-This project is licensed under the [MIT License](LICENSE), which allows for modification and distribution under certain terms. See the LICENSE file for details.
-
 ### Contact
 
 For any questions, feedback, or issues, please contact me.
